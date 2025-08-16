@@ -27,17 +27,18 @@ Built with Hugging Face NLP models, sentence embeddings, and experiment tracking
 ---
 
 ## 📂 How to Run in Google Colab
-1. **Open the Notebook in Colab**  
-   [Open In Colab]((https://colab.research.google.com/drive/1vcBWysu1zkCOSmn7o6NRWjl0rBdrJYDu#scrollTo=dMeERm0a5U_y))  
-   
-2. **Install dependencies**  
+1. **Open the Notebook in Colab**
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ApoorvCS2023/Projects_2025/blob/main/jd_resume_matcher_clean.ipynb)
+
+
+3. **Install dependencies**  
    Run the first cell to install required libraries.
 
-3. **Replace sample texts**  
+4. **Replace sample texts**  
    - Paste a real job description into `job_description_text`.
    - Paste your resume text into `resume_text`.
 
-4. **Run all cells**  
+5. **Run all cells**  
    Get your skill match report instantly.
 
 ---
