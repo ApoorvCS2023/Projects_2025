@@ -193,8 +193,8 @@ print("Files:", glob.glob("*"))
 
 import nbformat as nbf
 
-in_path = "jd_resume_matcher (1).ipynb"              # exact filename in /content
-out_path = "jd_resume_matcher_clean.ipynb"       # cleaned copy to upload
+in_path = "jd_resume_matcher (1).ipynb"            
+out_path = "jd_resume_matcher_clean.ipynb"       
 
 nb = nbf.read(in_path, as_version=4)
 
